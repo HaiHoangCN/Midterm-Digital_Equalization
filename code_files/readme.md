@@ -198,10 +198,8 @@ Link: <https://www.just.edu.jo/~hazem-ot/Lab.4&5.%20FIR%20Filters.pdf>
 ![image](/pictures/fig18.png)
 
 - $x[n]$ is input signal, $y[n]$ is output signal
-- ![image](/pictures/fig19.png)
 
-# Verilog-8-Band-Audio-Equalizer
-Link Github: <https://github.com/Qyt0109/Verilog-8-Band-Audio-Equalizer>
+![image](/pictures/fig19.png)
 
 # Github Code for "Audio equalizer based on FIR filters"
 Link Github: <https://github.com/controlpaths/blog/tree/87fbe923b3a888f79df401bee3a0fb8242fb5258/equalizer_fir>
